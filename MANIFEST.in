@@ -1,0 +1,4 @@
+include README.md
+include example/boil.yaml
+include example/template/*
+include example/www/*
