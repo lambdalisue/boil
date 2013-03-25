@@ -36,7 +36,7 @@ setup(
     install_requires=[
         'setuptools',
         'jinja2',
-        'watchdog'
+        'watchdog',
         'PyYaml',
     ],
 )
